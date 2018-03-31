@@ -1578,3 +1578,371 @@ LogInit: Object subsystem initialized
 [2018.03.31-09.48.59:332][601]LogSavePackage: Save=32.96ms
 [2018.03.31-09.48.59:332][601]LogSavePackage: Moving '../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Saved/BP_Flower182726FE54C341401DD835BA65190FD74.tmp' to '../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/Blueprints/BP_Flower1.uasset'
 [2018.03.31-09.48.59:341][601]LogSavePackage: Display: Finished SavePackage ../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/Blueprints/BP_Flower1.uasset
+[2018.03.31-09.50.19:453][827]LogMetaData: Removing '/Game/Blueprints/CROPS_Secondary_Flowers.SKEL_CROPS_Secondary_Flowers_C' ref from Metadata '/Game/Blueprints/BP_Flower1.PackageMetaData'
+[2018.03.31-09.50.19:453][827]LogMetaData: Removing '/Game/Blueprints/CROPS_Secondary_Flowers.CROPS_Secondary_Flowers_C' ref from Metadata '/Game/Blueprints/BP_Flower1.PackageMetaData'
+[2018.03.31-09.50.19:522][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CROPS_Secondary_Flowers" FILE="../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/Blueprints/CROPS_Secondary_Flowers.uasset" SILENT=true
+[2018.03.31-09.50.19:556][827]LogSavePackage: Save=31.70ms
+[2018.03.31-09.50.19:556][827]LogSavePackage: Moving '../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Saved/CROPS_Secondary_Flowers48C1772A4634F61D9D0C6C96E04CA039.tmp' to '../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/Blueprints/CROPS_Secondary_Flowers.uasset'
+[2018.03.31-09.50.19:560][827]LogSavePackage: Display: Finished SavePackage ../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/Blueprints/CROPS_Secondary_Flowers.uasset
+[2018.03.31-09.50.19:750][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Flower1" FILE="../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/Blueprints/BP_Flower1.uasset" SILENT=true
+[2018.03.31-09.50.19:759][827]LogSavePackage: Save=1.88ms
+[2018.03.31-09.50.19:759][827]LogSavePackage: Moving '../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Saved/BP_Flower1B1B53FB34A60E25191869D9A5CAB1DA3.tmp' to '../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/Blueprints/BP_Flower1.uasset'
+[2018.03.31-09.50.19:764][827]LogSavePackage: Display: Finished SavePackage ../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/Blueprints/BP_Flower1.uasset
+[2018.03.31-09.51.40:826][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-09.51.49:225][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-09.51.56:100][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-09.52.05:938][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-09.52.13:845][415]BlueprintLog: New page: Compile CROPS_Secondary_Flowers
+[2018.03.31-09.52.15:508][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CROPS_Secondary_Flowers" FILE="../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/Blueprints/CROPS_Secondary_Flowers.uasset" SILENT=true
+[2018.03.31-09.52.15:543][472]LogSavePackage: Save=29.19ms
+[2018.03.31-09.52.15:543][472]LogSavePackage: Moving '../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Saved/CROPS_Secondary_Flowers1CD3DD974984873D5647A1B0EDF0CAB8.tmp' to '../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/Blueprints/CROPS_Secondary_Flowers.uasset'
+[2018.03.31-09.52.15:547][472]LogSavePackage: Display: Finished SavePackage ../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/Blueprints/CROPS_Secondary_Flowers.uasset
+[2018.03.31-09.52.55:290][248]BlueprintLog: New page: Compile CROPS_Secondary_Flowers
+[2018.03.31-09.52.56:215][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CROPS_Secondary_Flowers" FILE="../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/Blueprints/CROPS_Secondary_Flowers.uasset" SILENT=true
+[2018.03.31-09.52.56:250][268]LogSavePackage: Save=29.80ms
+[2018.03.31-09.52.56:250][268]LogSavePackage: Moving '../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Saved/CROPS_Secondary_FlowersF1329CF34258698F66A8A5844D484D38.tmp' to '../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/Blueprints/CROPS_Secondary_Flowers.uasset'
+[2018.03.31-09.52.56:261][268]LogSavePackage: Display: Finished SavePackage ../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/Blueprints/CROPS_Secondary_Flowers.uasset
+[2018.03.31-09.54.58:396][372]BlueprintLog: New page: Compile CROPS_Secondary_Flowers
+[2018.03.31-09.55.10:271][905]LogSlate: Took 0.010721 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.03.31-09.56.29:841][476]BlueprintLog: New page: Compile CROPS_Secondary_Flowers
+[2018.03.31-09.56.29:861][476]LogBlueprint: Error: [Compiler CROPS_Secondary_Flowers] The property associated with  Which Sec Crops  could not be found
+[2018.03.31-09.56.29:861][476]LogBlueprint: Error: [Compiler CROPS_Secondary_Flowers] The property associated with  Which Sec Crops  could not be found
+[2018.03.31-09.56.30:070][476]LogBlueprint: Warning: [Compiler CROPS_Secondary_Flowers] [2929,05] Compile of CROPS_Secondary_Flowers failed. 2 Fatal Issue(s) 0 Warning(s) [in 228 ms] (/Game/Blueprints/CROPS_Secondary_Flowers.CROPS_Secondary_Flowers)
+[2018.03.31-09.56.53:571][852]BlueprintLog: New page: Compile CROPS_Secondary_Flowers
+[2018.03.31-09.56.53:589][852]LogBlueprint: Error: [Compiler CROPS_Secondary_Flowers] The property associated with  Which Sec Crops  could not be found
+[2018.03.31-09.56.53:589][852]LogBlueprint: Error: [Compiler CROPS_Secondary_Flowers] The property associated with  Which Sec Crops  could not be found
+[2018.03.31-09.56.53:732][852]LogBlueprint: Warning: [Compiler CROPS_Secondary_Flowers] [2952,71] Compile of CROPS_Secondary_Flowers failed. 2 Fatal Issue(s) 0 Warning(s) [in 160 ms] (/Game/Blueprints/CROPS_Secondary_Flowers.CROPS_Secondary_Flowers)
+[2018.03.31-09.57.10:937][791]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.31-09.57.13:730][876]BlueprintLog: New page: Compile CROPS_Secondary_Flowers
+[2018.03.31-09.57.17:082][ 45]BlueprintLog: New page: Compile CROPS_Secondary_Flowers
+[2018.03.31-09.57.19:606][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CROPS_Secondary_Flowers" FILE="../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/Blueprints/CROPS_Secondary_Flowers.uasset" SILENT=true
+[2018.03.31-09.57.19:648][150]LogSavePackage: Save=35.02ms
+[2018.03.31-09.57.19:648][150]LogSavePackage: Moving '../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Saved/CROPS_Secondary_Flowers97F2A87A4EE399A2F486CFAADC278EC2.tmp' to '../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/Blueprints/CROPS_Secondary_Flowers.uasset'
+[2018.03.31-09.57.19:654][150]LogSavePackage: Display: Finished SavePackage ../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/Blueprints/CROPS_Secondary_Flowers.uasset
+[2018.03.31-09.58.15:571][676]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.31-09.58.17:528][709]LogSavePackage: Save=201.47ms
+[2018.03.31-09.58.17:528][709]LogSavePackage: Moving '../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Saved/ThirdPersonCharacter1E6C143248285982270781AAF8355C49.tmp' to '../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.03.31-09.58.17:534][709]LogSavePackage: Display: Finished SavePackage ../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.03.31-10.42.48:600][184]BlueprintLog: New page: Compile CROPS_Secondary_Flowers
+[2018.03.31-10.42.48:627][184]LogBlueprint: Error: [Compiler CROPS_Secondary_Flowers] The property associated with  Can Take Crops  could not be found
+[2018.03.31-10.42.48:627][184]LogBlueprint: Error: [Compiler CROPS_Secondary_Flowers] The property associated with  Can Take Crops  could not be found
+[2018.03.31-10.42.48:891][184]LogBlueprint: Warning: [Compiler CROPS_Secondary_Flowers] [5707,87] Compile of CROPS_Secondary_Flowers failed. 2 Fatal Issue(s) 0 Warning(s) [in 291 ms] (/Game/Blueprints/CROPS_Secondary_Flowers.CROPS_Secondary_Flowers)
+[2018.03.31-10.44.24:347][796]BlueprintLog: New page: Compile CROPS_Secondary_Flowers
+[2018.03.31-10.44.24:370][796]LogBlueprint: Error: [Compiler CROPS_Secondary_Flowers] The property associated with  Can Take Crops  could not be found
+[2018.03.31-10.44.24:370][796]LogBlueprint: Error: [Compiler CROPS_Secondary_Flowers] The property associated with  Can Take Crops  could not be found
+[2018.03.31-10.44.24:534][796]LogBlueprint: Warning: [Compiler CROPS_Secondary_Flowers] [5803,51] Compile of CROPS_Secondary_Flowers failed. 2 Fatal Issue(s) 0 Warning(s) [in 186 ms] (/Game/Blueprints/CROPS_Secondary_Flowers.CROPS_Secondary_Flowers)
+[2018.03.31-10.48.01:281][ 35]BlueprintLog: New page: Compile CROPS_Secondary_Flowers
+[2018.03.31-10.48.01:304][ 35]LogBlueprint: Error: [Compiler CROPS_Secondary_Flowers] The property associated with  Can Take Crops  could not be found
+[2018.03.31-10.48.01:304][ 35]LogBlueprint: Error: [Compiler CROPS_Secondary_Flowers] The property associated with  Can Take Crops  could not be found
+[2018.03.31-10.48.01:458][ 35]LogBlueprint: Warning: [Compiler CROPS_Secondary_Flowers] [6020,44] Compile of CROPS_Secondary_Flowers failed. 2 Fatal Issue(s) 0 Warning(s) [in 176 ms] (/Game/Blueprints/CROPS_Secondary_Flowers.CROPS_Secondary_Flowers)
+[2018.03.31-10.48.04:822][217]BlueprintLog: New page: Compile CROPS_Secondary_Flowers
+[2018.03.31-10.48.04:844][217]LogBlueprint: Error: [Compiler CROPS_Secondary_Flowers] The property associated with  Can Take Crops  could not be found
+[2018.03.31-10.48.04:844][217]LogBlueprint: Error: [Compiler CROPS_Secondary_Flowers] The property associated with  Can Take Crops  could not be found
+[2018.03.31-10.48.04:992][217]LogBlueprint: Warning: [Compiler CROPS_Secondary_Flowers] [6023,97] Compile of CROPS_Secondary_Flowers failed. 2 Fatal Issue(s) 0 Warning(s) [in 169 ms] (/Game/Blueprints/CROPS_Secondary_Flowers.CROPS_Secondary_Flowers)
+[2018.03.31-10.48.16:185][826]BlueprintLog: New page: Compile CROPS_Secondary_Flowers
+[2018.03.31-10.48.16:206][826]LogBlueprint: Error: [Compiler CROPS_Secondary_Flowers] The property associated with  Can Take Crops  could not be found
+[2018.03.31-10.48.16:206][826]LogBlueprint: Error: [Compiler CROPS_Secondary_Flowers] The property associated with  Can Take Crops  could not be found
+[2018.03.31-10.48.16:352][826]LogBlueprint: Warning: [Compiler CROPS_Secondary_Flowers] [6035,33] Compile of CROPS_Secondary_Flowers failed. 2 Fatal Issue(s) 0 Warning(s) [in 167 ms] (/Game/Blueprints/CROPS_Secondary_Flowers.CROPS_Secondary_Flowers)
+[2018.03.31-10.48.18:345][934]LogEditorTransaction: Undo Create Pin Link
+[2018.03.31-10.49.24:105][274]BlueprintLog: New page: Compile CROPS_Secondary_Flowers
+[2018.03.31-10.49.24:127][274]LogBlueprint: Error: [Compiler CROPS_Secondary_Flowers] The property associated with  Can Take Crops  could not be found
+[2018.03.31-10.49.24:127][274]LogBlueprint: Error: [Compiler CROPS_Secondary_Flowers] The property associated with  Can Take Crops  could not be found
+[2018.03.31-10.49.24:285][274]LogBlueprint: Warning: [Compiler CROPS_Secondary_Flowers] [6103,26] Compile of CROPS_Secondary_Flowers failed. 2 Fatal Issue(s) 0 Warning(s) [in 180 ms] (/Game/Blueprints/CROPS_Secondary_Flowers.CROPS_Secondary_Flowers)
+[2018.03.31-10.49.43:960][299]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.31-10.49.46:786][387]BlueprintLog: New page: Compile CROPS_Secondary_Flowers
+[2018.03.31-10.50.08:635][380]BlueprintLog: New page: Compile CROPS_Secondary_Flowers
+[2018.03.31-10.52.47:045][259]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.31-11.13.47:839][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-11.15.10:940][922]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.31-11.19.03:355][870]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.31-11.19.08:281][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-11.19.10:519][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-11.19.13:752][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-11.19.13:841][372]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.31-11.19.13:953][372]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.31-11.19.13:953][372]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.31-11.19.13:959][372]LogPlayLevel: [PlayLevel] Compiling Player_Ax_Surface_Blueprint before play...
+[2018.03.31-11.19.14:296][372]LogPlayLevel: [PlayLevel] Compiling Player_Platform_Blueprint before play...
+[2018.03.31-11.19.14:648][372]LogPlayLevel: [PlayLevel] Compiling ThirdPersonExampleMap before play...
+[2018.03.31-11.19.14:811][372]LogPlayLevel: PlayLevel: Blueprint regeneration took 857 ms (3 blueprints)
+[2018.03.31-11.19.14:811][372]PIE: New page: PIE session: ThirdPersonExampleMap (31 mars 2018 15:19:14)
+[2018.03.31-11.19.14:812][372]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.31-11.19.14:847][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035437s)
+[2018.03.31-11.19.14:849][372]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.31-11.19.14:850][372]LogPlayLevel: PIE: World Init took: (0.002588s)
+[2018.03.31-11.19.14:850][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.038390s)
+[2018.03.31-11.19.14:892][372]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.31-11.19.14:903][372]LogInit: FAudioDevice initialized.
+[2018.03.31-11.19.14:961][372]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.31-11.19.14:967][372]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.31-13.19.14
+[2018.03.31-11.19.14:967][372]LogWorld: Bringing up level for play took: 0.005413
+[2018.03.31-11.19.14:970][372]LogBlueprintUserMessages: [Player1_Pawn_258] 1
+[2018.03.31-11.19.14:972][372]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerController from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Possess in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property PlayerController
+[2018.03.31-11.19.14:973][372]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2018.03.31-11.19.14:973][372]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Can Interact!
+[2018.03.31-11.19.14:973][372]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Can Interact!
+[2018.03.31-11.19.14:980][372]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,666
+[2018.03.31-11.19.14:980][372]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.31-11.19.17:508][496]LogBlueprintUserMessages: [Player1_Pawn_258] Can Interact!
+[2018.03.31-11.19.17:806][513]LogBlueprintUserMessages: [Player1_Pawn_258] CROPS_Secondary_Flowers2
+[2018.03.31-11.19.18:722][565]LogBlueprintUserMessages: [Player1_Pawn_258] CROPS_Secondary_Flowers2
+[2018.03.31-11.19.19:106][587]LogBlueprintUserMessages: [Player1_Pawn_258] Can Interact!
+[2018.03.31-11.19.19:359][601]LogBlueprintUserMessages: [Player1_Pawn_258] Can Interact!
+[2018.03.31-11.19.19:377][602]LogBlueprintUserMessages: [Player1_Pawn_258] Can't Interact...
+[2018.03.31-11.19.19:547][611]LogBlueprintUserMessages: [Player1_Pawn_258] CROPS_Secondary_Flowers
+[2018.03.31-11.19.19:979][635]LogBlueprintUserMessages: [Player1_Pawn_258] CROPS_Secondary_Flowers
+[2018.03.31-11.19.20:566][668]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.31-11.19.20:596][668]LogSlate: Window 'LittleLeave_UE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.31-11.19.20:709][668]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.31-11.19.29:387][166]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.31-11.19.30:689][174]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.31-11.19.30:793][174]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.31-11.19.30:793][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.31-11.19.30:793][174]PIE: New page: PIE session: ThirdPersonExampleMap (31 mars 2018 15:19:30)
+[2018.03.31-11.19.30:793][174]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.31-11.19.30:817][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023813s)
+[2018.03.31-11.19.30:818][174]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.31-11.19.30:818][174]LogPlayLevel: PIE: World Init took: (0.001268s)
+[2018.03.31-11.19.30:818][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025292s)
+[2018.03.31-11.19.30:860][174]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.31-11.19.30:871][174]LogInit: FAudioDevice initialized.
+[2018.03.31-11.19.30:930][174]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.31-11.19.30:935][174]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.31-13.19.30
+[2018.03.31-11.19.30:936][174]LogWorld: Bringing up level for play took: 0.004655
+[2018.03.31-11.19.30:937][174]LogBlueprintUserMessages: [Player1_Pawn_258] 1
+[2018.03.31-11.19.30:940][174]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerController from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Possess in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property PlayerController
+[2018.03.31-11.19.30:940][174]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2018.03.31-11.19.30:940][174]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Can Interact!
+[2018.03.31-11.19.30:940][174]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Can Interact!
+[2018.03.31-11.19.30:947][174]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,366
+[2018.03.31-11.19.30:948][174]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.31-11.19.33:266][282]LogBlueprintUserMessages: [Player1_Pawn_258] Can Interact!
+[2018.03.31-11.19.33:517][296]LogBlueprintUserMessages: [Player1_Pawn_258] Can't Interact...
+[2018.03.31-11.19.33:518][296]LogBlueprintUserMessages: [Player1_Pawn_258] CROPS_Secondary_Flowers2
+[2018.03.31-11.19.33:518][296]LogBlueprintUserMessages: [Player1_Pawn_258] Can Interact!
+[2018.03.31-11.19.33:698][306]LogBlueprintUserMessages: [Player1_Pawn_258] Can Interact!
+[2018.03.31-11.19.33:717][307]LogBlueprintUserMessages: [Player1_Pawn_258] Can't Interact...
+[2018.03.31-11.19.33:898][317]LogBlueprintUserMessages: [Player1_Pawn_258] Can't Interact...
+[2018.03.31-11.19.33:898][317]LogBlueprintUserMessages: [Player1_Pawn_258] CROPS_Secondary_Flowers
+[2018.03.31-11.19.34:982][377]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.31-11.19.35:011][377]LogSlate: Window 'LittleLeave_UE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.31-11.19.35:116][377]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.31-11.19.50:623][378]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.31-11.19.50:662][378]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.31-11.19.50:662][378]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.31-11.19.50:744][378]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.03.31-11.19.50:811][378]LogPlayLevel: [PlayLevel]   Compiling Player1_Pawn as a dependent...
+[2018.03.31-11.19.51:548][378]LogPlayLevel: PlayLevel: Blueprint regeneration took 885 ms (2 blueprints)
+[2018.03.31-11.19.51:548][378]PIE: New page: PIE session: ThirdPersonExampleMap (31 mars 2018 15:19:51)
+[2018.03.31-11.19.51:548][378]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.31-11.19.51:573][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024236s)
+[2018.03.31-11.19.51:573][378]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.31-11.19.51:574][378]LogPlayLevel: PIE: World Init took: (0.001005s)
+[2018.03.31-11.19.51:574][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025466s)
+[2018.03.31-11.19.51:613][378]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.31-11.19.51:625][378]LogInit: FAudioDevice initialized.
+[2018.03.31-11.19.51:684][378]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.31-11.19.51:689][378]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.31-13.19.51
+[2018.03.31-11.19.51:689][378]LogWorld: Bringing up level for play took: 0.004502
+[2018.03.31-11.19.51:691][378]LogBlueprintUserMessages: [Player1_Pawn_258] 1
+[2018.03.31-11.19.51:694][378]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerController from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Possess in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property PlayerController
+[2018.03.31-11.19.51:694][378]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2018.03.31-11.19.51:694][378]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Can Interact!
+[2018.03.31-11.19.51:694][378]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Can Interact!
+[2018.03.31-11.19.51:701][378]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,388
+[2018.03.31-11.19.51:702][378]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.31-11.19.54:032][497]LogBlueprintUserMessages: [Player1_Pawn_258] Can Interact!
+[2018.03.31-11.19.54:230][508]LogBlueprintUserMessages: [Player1_Pawn_258] Can't Interact...
+[2018.03.31-11.19.54:230][508]LogBlueprintUserMessages: [Player1_Pawn_258] Can't Interact...
+[2018.03.31-11.19.54:230][508]LogBlueprintUserMessages: [Player1_Pawn_258] Can't Interact...
+[2018.03.31-11.19.57:924][729]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.31-11.19.57:953][729]LogSlate: Window 'LittleLeave_UE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.31-11.19.57:990][729]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.31-11.19.59:254][804]LogEditorTransaction: Undo Delete current selection
+[2018.03.31-11.19.59:927][807]LogEditorTransaction: Undo Delete current selection
+[2018.03.31-11.20.13:992][634]LogSlate: Window 'Color Picker' being destroyed
+[2018.03.31-11.20.19:636][994]LogEditorViewport: Clicking on Actor (LMB): CROPS_Secondary_Flowers_C (CROPS_Secondary_Flowers2)
+[2018.03.31-11.20.22:118][124]LogEditorViewport: Clicking on Actor (LMB): CROPS_Secondary_Flowers_C (CROPS_Secondary_Flowers2)
+[2018.03.31-11.20.22:873][165]LogEditorViewport: Clicking on Actor (LMB): CROPS_Secondary_Flowers_C (CROPS_Secondary_Flowers2)
+[2018.03.31-11.20.23:423][194]LogEditorViewport: Clicking on Actor (LMB): CROPS_Secondary_Flowers_C (CROPS_Secondary_Flowers2)
+[2018.03.31-11.20.23:842][216]LogEditorViewport: Clicking on Actor (LMB): CROPS_Secondary_Flowers_C (CROPS_Secondary_Flowers2)
+[2018.03.31-11.20.24:213][235]LogEditorViewport: Clicking on Actor (LMB): CROPS_Secondary_Flowers_C (CROPS_Secondary_Flowers2)
+[2018.03.31-11.20.24:679][260]LogEditorViewport: Clicking on Actor (LMB): CROPS_Secondary_Flowers_C (CROPS_Secondary_Flowers2)
+[2018.03.31-11.20.25:101][283]LogEditorViewport: Clicking on Actor (LMB): CROPS_Secondary_Flowers_C (CROPS_Secondary_Flowers2)
+[2018.03.31-11.20.26:907][373]LogEditorViewport: Clicking on Actor (LMB): CROPS_Secondary_Flowers_C (CROPS_Secondary_Flowers2)
+[2018.03.31-11.20.27:479][401]LogEditorViewport: Clicking on Actor (LMB): CROPS_Secondary_Flowers_C (CROPS_Secondary_Flowers2)
+[2018.03.31-11.20.27:903][423]LogEditorViewport: Clicking on Actor (LMB): CROPS_Secondary_Flowers_C (CROPS_Secondary_Flowers2)
+[2018.03.31-11.20.28:353][447]LogEditorViewport: Clicking on Actor (LMB): CROPS_Secondary_Flowers_C (CROPS_Secondary_Flowers2)
+[2018.03.31-11.20.29:274][498]LogEditorViewport: Clicking on Actor (LMB): CROPS_Secondary_Flowers_C (CROPS_Secondary_Flowers2)
+[2018.03.31-11.20.29:984][536]LogEditorViewport: Clicking on Actor (LMB): CROPS_Secondary_Flowers_C (CROPS_Secondary_Flowers2)
+[2018.03.31-11.20.31:377][612]LogEditorViewport: Clicking on Actor (LMB): CROPS_Secondary_Flowers_C (CROPS_Secondary_Flowers2)
+[2018.03.31-11.20.31:719][629]LogEditorViewport: Clicking on Actor (LMB): CROPS_Secondary_Flowers_C (CROPS_Secondary_Flowers2)
+[2018.03.31-11.20.33:111][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2018.03.31-11.20.34:159][755]LogEditorViewport: Clicking on Actor (LMB): BP_Flower_C (BP_Flower)
+[2018.03.31-11.20.43:311][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-11.20.46:271][387]LogUObjectArray: Warning: Invalid object index 458758
+[2018.03.31-11.20.46:271][387]LogUObjectArray: Warning: Invalid object index 458758
+[2018.03.31-11.20.46:272][387]LogUObjectArray: Warning: Invalid object index 458758
+[2018.03.31-11.21.02:458][183]Cmd: TRANSACTION UNDO
+[2018.03.31-11.21.02:458][183]LogEditorTransaction: Undo Set Scale
+[2018.03.31-11.21.03:076][210]Cmd: TRANSACTION UNDO
+[2018.03.31-11.21.03:076][210]LogEditorTransaction: Undo Set Scale
+[2018.03.31-11.21.03:440][224]Cmd: TRANSACTION UNDO
+[2018.03.31-11.21.03:440][224]LogEditorTransaction: Undo Set Scale
+[2018.03.31-11.21.03:693][234]Cmd: TRANSACTION UNDO
+[2018.03.31-11.21.03:693][234]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.31-11.21.04:453][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-11.21.33:860][735]LogEditorViewport: Clicking on Actor (LMB): BP_Flower_C (BP_Flower)
+[2018.03.31-11.21.38:792][996]Cmd: DELETE
+[2018.03.31-11.21.38:792][996]Cmd: ACTOR DELETE
+[2018.03.31-11.21.38:809][996]LogEditorActor: Deleted Actor: BP_Flower_C
+[2018.03.31-11.21.38:852][996]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2018.03.31-11.21.40:058][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-11.21.44:435][284]Cmd: EDIT COPY
+[2018.03.31-11.21.44:655][292]Cmd: EDIT PASTE
+[2018.03.31-11.21.45:941][352]Cmd: EDIT COPY
+[2018.03.31-11.21.46:116][360]Cmd: EDIT PASTE
+[2018.03.31-11.21.47:700][440]Cmd: EDIT COPY
+[2018.03.31-11.21.47:905][451]Cmd: EDIT PASTE
+[2018.03.31-11.21.50:255][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-11.21.50:343][576]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.31-11.21.50:451][576]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.31-11.21.50:451][576]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.31-11.21.50:542][576]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.03.31-11.21.50:611][576]LogPlayLevel: [PlayLevel]   Compiling Player1_Pawn as a dependent...
+[2018.03.31-11.21.51:401][576]LogPlayLevel: [PlayLevel] Compiling CROPS_Secondary_Flowers before play...
+[2018.03.31-11.21.52:565][576]LogPlayLevel: PlayLevel: Blueprint regeneration took 2113 ms (3 blueprints)
+[2018.03.31-11.21.52:565][576]PIE: New page: PIE session: ThirdPersonExampleMap (31 mars 2018 15:21:52)
+[2018.03.31-11.21.52:565][576]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.03.31-11.21.52:590][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024770s)
+[2018.03.31-11.21.52:591][576]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.31-11.21.52:591][576]LogPlayLevel: PIE: World Init took: (0.001208s)
+[2018.03.31-11.21.52:591][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026224s)
+[2018.03.31-11.21.52:632][576]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.31-11.21.52:644][576]LogInit: FAudioDevice initialized.
+[2018.03.31-11.21.52:703][576]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.31-11.21.52:708][576]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.03.31-13.21.52
+[2018.03.31-11.21.52:709][576]LogWorld: Bringing up level for play took: 0.005306
+[2018.03.31-11.21.52:710][576]LogBlueprintUserMessages: [Player1_Pawn_258] 1
+[2018.03.31-11.21.52:714][576]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerController from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Possess in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property PlayerController
+[2018.03.31-11.21.52:714][576]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2018.03.31-11.21.52:714][576]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Can Interact!
+[2018.03.31-11.21.52:714][576]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Can Interact!
+[2018.03.31-11.21.52:721][576]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,407
+[2018.03.31-11.21.52:721][576]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.31-11.21.55:723][715]LogBlueprintUserMessages: [Player1_Pawn_258] Can Interact!
+[2018.03.31-11.21.55:744][716]LogBlueprintUserMessages: [Player1_Pawn_258] Can Interact!
+[2018.03.31-11.21.55:921][725]LogBlueprintUserMessages: [Player1_Pawn_258] Can't Interact...
+[2018.03.31-11.21.56:417][750]LogBlueprintUserMessages: [Player1_Pawn_258] Can Interact!
+[2018.03.31-11.21.56:438][751]LogBlueprintUserMessages: [Player1_Pawn_258] Can't Interact...
+[2018.03.31-11.21.56:480][753]LogBlueprintUserMessages: [Player1_Pawn_258] Can Interact!
+[2018.03.31-11.21.56:559][757]LogBlueprintUserMessages: [Player1_Pawn_258] Can Interact!
+[2018.03.31-11.21.56:598][759]LogBlueprintUserMessages: [Player1_Pawn_258] Can't Interact...
+[2018.03.31-11.21.56:599][759]LogBlueprintUserMessages: [Player1_Pawn_258] Can't Interact...
+[2018.03.31-11.21.57:846][820]LogBlueprintUserMessages: [Player1_Pawn_258] Can Interact!
+[2018.03.31-11.21.58:044][830]LogBlueprintUserMessages: [Player1_Pawn_258] Can't Interact...
+[2018.03.31-11.21.58:064][831]LogBlueprintUserMessages: [Player1_Pawn_258] Can't Interact...
+[2018.03.31-11.21.58:685][862]LogBlueprintUserMessages: [Player1_Pawn_258] Can Interact!
+[2018.03.31-11.21.58:704][863]LogBlueprintUserMessages: [Player1_Pawn_258] Can't Interact...
+[2018.03.31-11.21.58:900][873]LogBlueprintUserMessages: [Player1_Pawn_258] Can Interact!
+[2018.03.31-11.21.59:077][882]LogBlueprintUserMessages: [Player1_Pawn_258] Can't Interact...
+[2018.03.31-11.22.02:075][ 32]LogBlueprintUserMessages: [Player1_Pawn_258] Can Interact!
+[2018.03.31-11.22.02:373][ 47]LogBlueprintUserMessages: [Player1_Pawn_258] Can't Interact...
+[2018.03.31-11.22.02:934][ 75]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.31-11.22.02:963][ 75]LogSlate: Window 'LittleLeave_UE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.31-11.22.02:998][ 75]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.03.31-11.22.04:476][151]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.31-11.22.04:894][151]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.31-11.22.05:264][151]LogSavePackage: Save=314.94ms
+[2018.03.31-11.22.05:264][151]LogSavePackage: Moving '../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Saved/ThirdPersonExampleMapC5581F3B410462D91455118AFBE8C1B4.tmp' to '../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.03.31-11.22.05:272][151]LogSavePackage: Display: Finished SavePackage ../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.03.31-11.22.05:546][151]LogSavePackage: Save=135.93ms
+[2018.03.31-11.22.05:546][151]LogSavePackage: Moving '../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Saved/ThirdPersonExampleMap_BuiltDataA9B7DB454F01398F9D3037BA32D43EB4.tmp' to '../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.03.31-11.22.05:549][151]LogSavePackage: Display: Finished SavePackage ../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.03.31-11.22.06:649][210]LogEditorViewport: Clicking on Actor (LMB): Player_Rope_C (Player_Rope)
+[2018.03.31-11.22.09:348][351]Cmd: DELETE
+[2018.03.31-11.22.09:348][351]Cmd: ACTOR DELETE
+[2018.03.31-11.22.09:354][351]LogEditorActor: Deleted Actor: Player_Rope_C
+[2018.03.31-11.22.09:388][351]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2018.03.31-11.22.10:426][413]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.31-11.22.10:507][413]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.31-11.22.10:856][413]LogSavePackage: Save=305.26ms
+[2018.03.31-11.22.10:856][413]LogSavePackage: Moving '../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Saved/ThirdPersonExampleMap28014B2B4F2DC70D9624DE9A1BA9D7F3.tmp' to '../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.03.31-11.22.10:863][413]LogSavePackage: Display: Finished SavePackage ../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.03.31-11.22.11:140][413]LogSavePackage: Save=126.98ms
+[2018.03.31-11.22.11:140][413]LogSavePackage: Moving '../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Saved/ThirdPersonExampleMap_BuiltDataE61AAA12402DEE38BC883F91B3F85FCA.tmp' to '../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.03.31-11.22.11:144][413]LogSavePackage: Display: Finished SavePackage ../../../../../Users/tomkc/LittleLeaves/LittleLeave_UE/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.03.31-11.25.58:717][ 24]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tomkc\Downloads\Climbing Down Wall.fbx)
+[2018.03.31-11.25.59:005][ 24]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.03.31-11.25.59:005][ 24]LogFbx: ItemName: Model, ItemCount : 69
+[2018.03.31-11.25.59:005][ 24]LogFbx: ItemName: NodeAttribute, ItemCount : 67
+[2018.03.31-11.25.59:005][ 24]LogFbx: ItemName: Geometry, ItemCount : 2
+[2018.03.31-11.25.59:005][ 24]LogFbx: ItemName: Material, ItemCount : 2
+[2018.03.31-11.25.59:005][ 24]LogFbx: ItemName: Pose, ItemCount : 2
+[2018.03.31-11.25.59:005][ 24]LogFbx: ItemName: Deformer, ItemCount : 106
+[2018.03.31-11.25.59:005][ 24]LogFbx: ItemName: AnimationStack, ItemCount : 2
+[2018.03.31-11.25.59:005][ 24]LogFbx: ItemName: AnimationLayer, ItemCount : 2
+[2018.03.31-11.25.59:005][ 24]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.03.31-11.25.59:005][ 24]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.03.31-11.25.59:082][ 24]LogFbx: Loading FBX Scene from C:\Users\tomkc\Downloads\Climbing Down Wall.fbx
+[2018.03.31-11.25.59:367][ 24]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.31-11.26.11:375][ 24]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.03.31-11.26.11:480][ 24]LogFbx: Loading FBX Scene from C:\Users\tomkc\Downloads\Climbing Down Wall.fbx
+[2018.03.31-11.26.11:639][ 24]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.31-11.26.11:662][ 24]LogFbx: =================================================
+[2018.03.31-11.26.11:662][ 24]LogFbx: Dumping Node START [Beta_Joints] 
+[2018.03.31-11.26.11:662][ 24]LogFbx: 	Total Deformer Count -989026432.
+[2018.03.31-11.26.11:662][ 24]LogFbx: 		[Node 1] Skin Beta_Joints (Type Skin).
+[2018.03.31-11.26.11:662][ 24]LogFbx: =================================================
+[2018.03.31-11.26.11:662][ 24]LogFbx: 	Attribute (Beta_Joints) Type (4).
+[2018.03.31-11.26.11:662][ 24]LogFbx: 		[Node Attribute Child 1] Beta_Joints (Type Mesh).
+[2018.03.31-11.26.11:662][ 24]LogFbx: Dumping Node END [Beta_Joints]
+[2018.03.31-11.26.11:662][ 24]LogFbx: =================================================
+[2018.03.31-11.26.11:662][ 24]LogFbx: Dumping Node START [Beta_Surface] 
+[2018.03.31-11.26.11:662][ 24]LogFbx: 	Total Deformer Count -964361136.
+[2018.03.31-11.26.11:662][ 24]LogFbx: 		[Node 1] Skin Beta_Surface (Type Skin).
+[2018.03.31-11.26.11:662][ 24]LogFbx: =================================================
+[2018.03.31-11.26.11:662][ 24]LogFbx: 	Attribute (Beta_Surface) Type (4).
+[2018.03.31-11.26.11:662][ 24]LogFbx: 		[Node Attribute Child 1] Beta_Surface (Type Mesh).
+[2018.03.31-11.26.11:662][ 24]LogFbx: Dumping Node END [Beta_Surface]
+[2018.03.31-11.26.11:671][ 24]LogFbx: =================================================
+[2018.03.31-11.26.11:671][ 24]LogFbx: Dumping Node START [Beta_Joints] 
+[2018.03.31-11.26.11:671][ 24]LogFbx: 	Total Deformer Count -989033984.
+[2018.03.31-11.26.11:671][ 24]LogFbx: 		[Node 1] Skin Beta_Joints (Type Skin).
+[2018.03.31-11.26.11:671][ 24]LogFbx: =================================================
+[2018.03.31-11.26.11:671][ 24]LogFbx: 	Attribute (Beta_Joints) Type (4).
+[2018.03.31-11.26.11:671][ 24]LogFbx: 		[Node Attribute Child 1] Beta_Joints (Type Mesh).
+[2018.03.31-11.26.11:671][ 24]LogFbx: Dumping Node END [Beta_Joints]
+[2018.03.31-11.26.11:672][ 24]LogFbx: =================================================
+[2018.03.31-11.26.11:672][ 24]LogFbx: Dumping Node START [Beta_Surface] 
+[2018.03.31-11.26.11:672][ 24]LogFbx: 	Total Deformer Count -964353376.
+[2018.03.31-11.26.11:672][ 24]LogFbx: 		[Node 1] Skin Beta_Surface (Type Skin).
+[2018.03.31-11.26.11:672][ 24]LogFbx: =================================================
+[2018.03.31-11.26.11:672][ 24]LogFbx: 	Attribute (Beta_Surface) Type (4).
+[2018.03.31-11.26.11:672][ 24]LogFbx: 		[Node Attribute Child 1] Beta_Surface (Type Mesh).
+[2018.03.31-11.26.11:672][ 24]LogFbx: Dumping Node END [Beta_Surface]
+[2018.03.31-11.26.11:674][ 24]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Beta_Joints : The relative matrices do not match
+[2018.03.31-11.26.11:674][ 24]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Beta_Surface : The relative matrices do not match
+[2018.03.31-11.26.11:675][ 24]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Beta_Joints : The relative matrices do not match
+[2018.03.31-11.26.11:675][ 24]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Beta_Surface : The relative matrices do not match
+[2018.03.31-11.26.11:675][ 24]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2018.03.31-11.26.11:676][ 24]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Beta_Joints
+[2018.03.31-11.26.11:677][ 24]LogFbx: Warning: Recreating bind pose succeeded.
+[2018.03.31-11.26.11:733][ 24]LogMaterial: Warning: Material /Game/Players/ANIM/Beta_Joints_MAT.Beta_Joints_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2018.03.31-11.26.11:736][ 24]LogMaterial: Missing cached shader map for material Beta_Joints_MAT, compiling. 
+[2018.03.31-11.26.11:810][ 24]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.03.31-11.26.11:810][ 24]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.03.31-11.26.11:810][ 24]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.03.31-11.26.11:835][ 24]LogMaterial: Missing cached shader map for material Beta_Joints_MAT, compiling. 
+[2018.03.31-11.26.11:877][ 24]LogFbx: Triangulating skeletal mesh Beta_Joints
+[2018.03.31-11.26.12:988][ 24]LogMaterial: Warning: Material /Game/Players/ANIM/Beta_HighLimbsGeoSG2.Beta_HighLimbsGeoSG2 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.03.31-11.26.12:995][ 24]LogMaterial: Missing cached shader map for material Beta_HighLimbsGeoSG2, compiling. 
+[2018.03.31-11.26.13:061][ 24]LogMaterial: Missing cached shader map for material Beta_HighLimbsGeoSG2, compiling. 
+[2018.03.31-11.26.13:083][ 24]LogFbx: Triangulating skeletal mesh Beta_Surface
+[2018.03.31-11.26.14:817][ 24]LogFbx: Warning: Bones digested - 67  Depth of hierarchy - 12
+[2018.03.31-11.26.17:180][ 24]LogSkeletalMesh: Section 0: 12473 vertices, 37 active bones
+[2018.03.31-11.26.17:182][ 24]LogSkeletalMesh: Section 1: 15839 vertices, 50 active bones
+[2018.03.31-11.26.17:749][ 24]LogSkeletalMesh: Section 0: Material=0, 20840 triangles
+[2018.03.31-11.26.17:749][ 24]LogSkeletalMesh: Section 1: Material=1, 28272 triangles
+[2018.03.31-11.26.17:785][ 24]LogSkeletalMesh: Building Skeletal Mesh Climbing_Down_Wall...
+[2018.03.31-11.26.17:932][ 24]LogSkeletalMesh: Built Skeletal Mesh [0.15s] /Game/Players/ANIM/Climbing_Down_Wall.Climbing_Down_Wall
